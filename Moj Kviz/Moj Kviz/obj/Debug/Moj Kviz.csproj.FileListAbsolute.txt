@@ -1,0 +1,9 @@
+C:\Users\Azrail\Desktop\MojKviz\Moj Kviz\Moj Kviz\obj\Debug\Moj_Kviz.Form1.resources
+C:\Users\Azrail\Desktop\MojKviz\Moj Kviz\Moj Kviz\obj\Debug\Moj_Kviz.Properties.Resources.resources
+C:\Users\Azrail\Desktop\MojKviz\Moj Kviz\Moj Kviz\obj\Debug\Moj Kviz.csproj.GenerateResource.cache
+C:\Users\Azrail\Desktop\MojKviz\Moj Kviz\Moj Kviz\obj\Debug\Moj Kviz.csproj.CoreCompileInputs.cache
+C:\Users\Azrail\Desktop\MojKviz\Moj Kviz\Moj Kviz\bin\Debug\Moj Kviz.exe.config
+C:\Users\Azrail\Desktop\MojKviz\Moj Kviz\Moj Kviz\bin\Debug\Moj Kviz.exe
+C:\Users\Azrail\Desktop\MojKviz\Moj Kviz\Moj Kviz\bin\Debug\Moj Kviz.pdb
+C:\Users\Azrail\Desktop\MojKviz\Moj Kviz\Moj Kviz\obj\Debug\Moj Kviz.exe
+C:\Users\Azrail\Desktop\MojKviz\Moj Kviz\Moj Kviz\obj\Debug\Moj Kviz.pdb
